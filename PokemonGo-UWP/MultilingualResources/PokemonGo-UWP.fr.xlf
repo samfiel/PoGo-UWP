@@ -474,7 +474,7 @@ Ouvrir la page avec les fichiers d'installation pour une installation manuelle ?
         </trans-unit>
         <trans-unit id="Fav" translate="yes" xml:space="preserve">
           <source>Favorite</source>
-          <target state="translated">Favori</target>
+          <target state="translated">Favoris</target>
         </trans-unit>
         <trans-unit id="Health" translate="yes" xml:space="preserve">
           <source>Health</source>
@@ -516,16 +516,16 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="CancelText" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="new">ANNULER</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Capslock</note>
         </trans-unit>
         <trans-unit id="ItemDiscardWarningText" translate="yes" xml:space="preserve">
           <source>Discard {0}?</source>
-          <target state="new">Discard {0}?</target>
+          <target state="new">Jeter {0}?</target>
         </trans-unit>
         <trans-unit id="SetNickName" translate="yes" xml:space="preserve">
           <source>Set Nickname</source>
-          <target state="new">Set Nickname</target>
+          <target state="new">Donner un Surnom</target>
         </trans-unit>
         <trans-unit id="OkText" translate="yes" xml:space="preserve">
           <source>O. K.</source>
@@ -534,35 +534,35 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="PokemonEncounterErrorText" translate="yes" xml:space="preserve">
           <source>There was an error loading the encounter with {0}, please try again later.</source>
-          <target state="new">There was an error loading the encounter with {0}, please try again later.</target>
+          <target state="new">Il y a eu une erreur en chargeant la rencontre avec {0}, essayer plus tard.</target>
         </trans-unit>
         <trans-unit id="PokemonEncounterNotInRangeText" translate="yes" xml:space="preserve">
           <source>{0} is not in catch range anymore.</source>
-          <target state="new">{0} is not in catch range anymore.</target>
+          <target state="new">{0} est hors de portée.</target>
         </trans-unit>
         <trans-unit id="CannotTransferFavorite" translate="yes" xml:space="preserve">
           <source>Cannot transfer a favorite Pokémon!</source>
-          <target state="new">Cannot transfer a favorite Pokémon!</target>
+          <target state="new">Impossible de transférer un Pokémon favori!</target>
         </trans-unit>
         <trans-unit id="CantUseBerryText" translate="yes" xml:space="preserve">
           <source>You already used a Berry.</source>
-          <target state="new">You already used a Berry.</target>
+          <target state="new">Tu as déjà utilisé un Baie.</target>
         </trans-unit>
         <trans-unit id="LureDetailsTextEmpty" translate="yes" xml:space="preserve">
           <source>Can have a PokéStop Module installed</source>
-          <target state="new">Can have a PokéStop Module installed</target>
+          <target state="new">Un Module PokéStop peut y être installé</target>
         </trans-unit>
         <trans-unit id="LureDetailsTextFilled" translate="yes" xml:space="preserve">
           <source>A module that attracts Pokémon to a Pokéstop for 30 min. The effect benefits other people nearby.</source>
-          <target state="new">A module that attracts Pokémon to a Pokéstop for 30 min. The effect benefits other people nearby.</target>
+          <target state="new">Un module qui attire les Pokémon près d'un Pokéstop pendant 30 min. L'effet bénéficie aux autres personnes à proximité.</target>
         </trans-unit>
         <trans-unit id="LureTitleTextEmpty" translate="yes" xml:space="preserve">
           <source>Empty module slot</source>
-          <target state="new">Empty module slot</target>
+          <target state="new">Emplacement de module vide</target>
         </trans-unit>
         <trans-unit id="LureTitleTextFilled" translate="yes" xml:space="preserve">
           <source>Lure Module</source>
-          <target state="new">Lure Module</target>
+          <target state="new">Module Leurre</target>
         </trans-unit>
       </group>
     </body>
@@ -619,7 +619,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="CpTextBlock.Text" translate="no" xml:space="preserve">
           <source>CP</source>
-          <target state="final">CP</target>
+          <target state="final">PC</target>
         </trans-unit>
         <trans-unit id="EggsTextBlock.Text" translate="yes" xml:space="preserve">
           <source>EGGS</source>
@@ -664,7 +664,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="SlashSpaceCpTextBlock.Text" translate="no" xml:space="preserve">
           <source>/ CP</source>
-          <target state="final">/ CP</target>
+          <target state="final">/ PC</target>
         </trans-unit>
         <trans-unit id="SpaceXpTextBlock.Text" translate="no" xml:space="preserve">
           <source> XP</source>
@@ -700,7 +700,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="HpTextBlock.Text" translate="no" xml:space="preserve">
           <source>HP </source>
-          <target state="final">HP </target>
+          <target state="final">PV </target>
         </trans-unit>
         <trans-unit id="TypeTextBlock.Text" translate="no" xml:space="preserve">
           <source>Type</source>
@@ -712,11 +712,11 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="WeightTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Weight</source>
-          <target state="translated">Poids :</target>
+          <target state="translated">Poids</target>
         </trans-unit>
         <trans-unit id="HeightTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Height</source>
-          <target state="translated">Taille :</target>
+          <target state="translated">Taille</target>
         </trans-unit>
         <trans-unit id="MTextBlock.Text" translate="no" xml:space="preserve">
           <source>m</source>
@@ -781,7 +781,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="TimesTextBlock.Text" translate="yes" xml:space="preserve">
           <source>times</source>
-          <target state="translated">Temps</target>
+          <target state="translated">Fois</target>
         </trans-unit>
         <trans-unit id="EggDetailButtonTextBlock.Text" translate="yes" xml:space="preserve">
           <source>START INCUBATION</source>
@@ -793,7 +793,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="TransferTextBlock.Text" translate="yes" xml:space="preserve">
           <source>TRANSFER</source>
-          <target state="translated">TRANSFERER</target>
+          <target state="translated">TRANSFÉRER</target>
         </trans-unit>
         <trans-unit id="SettingsLanguageRestartTextBlock.Text" translate="yes" xml:space="preserve">
           <source>You must restart the App to take effect.</source>
@@ -813,20 +813,20 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="FavoriteTextBlock.Text" translate="yes" xml:space="preserve">
           <source>FAVORITE</source>
-          <target state="translated">FAVORI</target>
+          <target state="translated">FAVORIS</target>
         </trans-unit>
         <trans-unit id="AppraiseTextBlock.Text" translate="yes" xml:space="preserve">
           <source>APPRAISE</source>
-          <target state="new">APPRAISE</target>
+          <target state="new">ÉVALUER</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Capslock</note>
         </trans-unit>
         <trans-unit id="AwardedExperienceTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Experience</source>
-          <target state="new">Experience</target>
+          <target state="new">Expérience</target>
         </trans-unit>
         <trans-unit id="EggsHeader.Title" translate="yes" xml:space="preserve">
           <source>EGGS</source>
-          <target state="new">EGGS</target>
+          <target state="new">OEUFS</target>
         </trans-unit>
         <trans-unit id="PokemonHeader.Title" translate="yes" xml:space="preserve">
           <source>POKÉMON</source>
@@ -834,19 +834,19 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="FortAlreadyHasModifierTextBlock.Text" translate="yes" xml:space="preserve">
           <source>This pokestop already has a lure module installed</source>
-          <target state="new">This pokestop already has a lure module installed</target>
+          <target state="new">Ce pokestop a déjà un module leurre d'installé</target>
         </trans-unit>
         <trans-unit id="NoItemInInventoryTextBlock.Text" translate="yes" xml:space="preserve">
           <source>There is no troy disc in your inventory</source>
-          <target state="new">There is no troy disc in your inventory</target>
+          <target state="new">Il n'y a pas de troy disc dans ton inventaire</target>
         </trans-unit>
         <trans-unit id="TooFarAwayTextBlock.Text" translate="yes" xml:space="preserve">
           <source>This pokestop is too far away</source>
-          <target state="new">This pokestop is too far away</target>
+          <target state="new">Ce pokestop est trop loin</target>
         </trans-unit>
         <trans-unit id="AddModifierSuccessTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Successfully added lure module</source>
-          <target state="new">Successfully added lure module</target>
+          <target state="new">Module leurre ajouté avec succès</target>
         </trans-unit>
       </group>
     </body>
@@ -1039,7 +1039,7 @@ Tu as aussi reçu {1} Poudre d'étoile, {2} Bonbon et {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemSuperPotion" translate="yes" xml:space="preserve">
           <source>A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 50 points.</source>
-          <target state="translated">A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 50 points.</target>
+          <target state="translated"Un médicament en spray pour le traitement des plaies. Il restaure les PV d'un Pokémon de 50 points.</target>
         </trans-unit>
         <trans-unit id="D_ItemTroyDisk" translate="yes" xml:space="preserve">
           <source>A module that attracts Pokémon to a Pokéstop for 30 min. The effect benefits other people nearby.</source>
